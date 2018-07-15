@@ -1,0 +1,4 @@
+<meta>
+	<script src="Thread.lua" type="client" cache="false" />
+	<script src="test.lua" type="client" cache="false" />
+</meta>
