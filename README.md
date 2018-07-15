@@ -10,7 +10,7 @@ local function CThreadTest( )
 		process=process+1
 		outputDebugString( "thread process: "..process )
 
-		coroutine.yield( ) -- wymagane
+		coroutine.yield( ) -- wymagane/needed
 	end
 end
 
